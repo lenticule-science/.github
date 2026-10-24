@@ -8,6 +8,8 @@
 
 **A 561 Group organization.** Science: investigates what is possible, and publishes premises, sources and reproducible results with the unproved marked as unproved.
 
+**Start with a research question, not a brand claim.** [Explore the public research atlas](https://science.561.group/atlas/), read [Obsmetrologia: mathematics from marks](https://science.561.group/obsmetrologia-formal-mathematics-in-lean-4/), or examine [an audit of concurrent AI-agent integration](https://science.561.group/paraconsistent-transfinite-linear-agent-integration/). These publications distinguish established claims, original models, open questions and source-access limits. In particular, describing a private proof library is not equivalent to offering its entire source for independent public reproduction.
+
 The 561 Group is operated by Morgan Sennhauser. Its work moves from science to engineering to operations to public
 services, and each step has its own organization:
 
